@@ -5,3 +5,9 @@
 *.log
 *.synctex.gz
 *.aux
+*.gif
+*.png
+*.jpg
+*.jpeg
+*.key
+*-presenter.pdf
