@@ -23,7 +23,7 @@ Please sign your name by the empty time slot you wish to fill. Please choose a s
  * 1:00-1:15 : (Monica Hiemer)
  * 1:15-1:30 : (Toby Chappell)
  * 1:30-1:45 : (Tristan Tran)
- * 1:45-2:00 : (empty)
+ * 1:45-2:00 : (Yassaman Davilu)
  * 2:00-2:15 : (Noah Ferrel)
 
 ### Mon May 10
