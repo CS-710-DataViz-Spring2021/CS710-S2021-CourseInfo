@@ -12,7 +12,7 @@ Please sign your name by the empty time slot you wish to fill. Please choose a s
 
 ### Mon May 3
 
- * 1:00-1:15 : (Abhinav Singh)
+ * 1:00-1:15 : (empty)
  * 1:15-1:30 : (Mousa Abdi)
  * 1:30-1:45 : (Jacob Gilbreath)
  * 1:45-2:00 : (Hesam Sadri)
@@ -39,7 +39,7 @@ Please sign your name by the empty time slot you wish to fill. Please choose a s
 
  * 1:00-1:15 : (Hanna Lu)
  * 1:15-1:30 : (Rejoice Thomas)
- * 1:30-1:45 : (empty)
+ * 1:30-1:45 : (Abhinav Singh)
  * 1:45-2:00 : (Yibo Yuan)
  * 2:00-2:15 : (Sachi Perera)
 
