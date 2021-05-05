@@ -35,7 +35,7 @@ Please sign your name by the empty time slot you wish to fill. Please choose a s
  * 2:00-2:15 : (Louis Condevaux)
 
 
-### Wed May 11
+### Wed May 12
 
  * 1:00-1:15 : (Hanna Lu)
  * 1:15-1:30 : (Rejoice Thomas)
